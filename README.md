@@ -28,7 +28,7 @@ A simple regression tree model to study the interplay between box office, critic
 
 <p>Clearly, there is big room for improvement, either by collecting more relevant variables and/or running alternate regression models. Additionally, due to the nature of the OneHotEncoder () methodology, feature names are lost during the modeling pipeline, negatively affecting visualization readability and intelligibility.</p>
 
-<h1Appendix</h1>
+<h1>Appendix</h1>
 
 <a href="https://ibb.co/kGLssY2"><img src="https://i.ibb.co/4FbnnBR/avg-score-tree.png" alt="avg-score-tree" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dWyLzxH/Correlation-Heatmap.png" alt="Correlation-Heatmap" border="0"></a>
