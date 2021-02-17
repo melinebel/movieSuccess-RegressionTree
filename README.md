@@ -27,3 +27,13 @@ A simple regression tree model to study the interplay between box office, critic
 <p>None of the three refined decision tree regressions were particularly effective at explaining the variance of the target variables as measured by r squared. By this standard, the best decision tree is the one that targets the worldwide_gross_income variable, with an r squared of ~0.67. Alternatively, the worst decision tree is the one that targets metascore, with an r squared of ~0.55. These predictive differences make sense in that criticism is a more subjective measurement and it’s likely determined by more abstract, indefinable variables than worldwide income.</p>
 
 <p>Clearly, there is big room for improvement, either by collecting more relevant variables and/or running alternate regression models. Additionally, due to the nature of the OneHotEncoder () methodology, feature names are lost during the modeling pipeline, negatively affecting visualization readability and intelligibility.</p>
+
+<h1Appendix</h1>
+
+<a href="https://ibb.co/kGLssY2"><img src="https://i.ibb.co/4FbnnBR/avg-score-tree.png" alt="avg-score-tree" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dWyLzxH/Correlation-Heatmap.png" alt="Correlation-Heatmap" border="0"></a>
+<a href="https://ibb.co/Vwm375V"><img src="https://i.ibb.co/5KF2NwT/Dataset-Description.png" alt="Dataset-Description" border="0"></a>
+<a href="https://ibb.co/GJt25gg"><img src="https://i.ibb.co/BPrZC88/metascore-tree.png" alt="metascore-tree" border="0"></a>
+<a href="https://ibb.co/4fzssDJ"><img src="https://i.ibb.co/yRthhMV/Picture1.png" alt="Picture1" border="0"></a>
+<a href="https://ibb.co/4gm3CzL"><img src="https://i.ibb.co/FqxCc21/tree.png" alt="tree" border="0"></a>
+<a href="https://ibb.co/JHf0Y6D"><img src="https://i.ibb.co/zZyj39q/worldwide-gross-tree.png" alt="worldwide-gross-tree" border="0"></a>
