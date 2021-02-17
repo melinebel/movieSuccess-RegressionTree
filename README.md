@@ -30,10 +30,15 @@ A simple regression tree model to study the interplay between box office, critic
 
 <h1>Appendix</h1>
 
-<a href="https://ibb.co/kGLssY2"><img src="https://i.ibb.co/4FbnnBR/avg-score-tree.png" alt="avg-score-tree" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dWyLzxH/Correlation-Heatmap.png" alt="Correlation-Heatmap" border="0"></a>
-<a href="https://ibb.co/Vwm375V"><img src="https://i.ibb.co/5KF2NwT/Dataset-Description.png" alt="Dataset-Description" border="0"></a>
-<a href="https://ibb.co/GJt25gg"><img src="https://i.ibb.co/BPrZC88/metascore-tree.png" alt="metascore-tree" border="0"></a>
-<a href="https://ibb.co/4fzssDJ"><img src="https://i.ibb.co/yRthhMV/Picture1.png" alt="Picture1" border="0"></a>
-<a href="https://ibb.co/4gm3CzL"><img src="https://i.ibb.co/FqxCc21/tree.png" alt="tree" border="0"></a>
-<a href="https://ibb.co/JHf0Y6D"><img src="https://i.ibb.co/zZyj39q/worldwide-gross-tree.png" alt="worldwide-gross-tree" border="0"></a>
+<a href="https://ibb.co/4fzssDJ"><img src="https://i.ibb.co/yRthhMV/Picture1.png" alt="Picture1" border="0"></a><figcaption>Dataset Preview</figcaption>
+
+<a href="https://ibb.co/Vwm375V"><img src="https://i.ibb.co/5KF2NwT/Dataset-Description.png" alt="Dataset-Description" border="0"></a><figcaption>Dataset Description</figcaption>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dWyLzxH/Correlation-Heatmap.png" alt="Correlation-Heatmap" border="0"></a><figcaption>Correlation Heatmap</figcaption>
+
+<a href="https://ibb.co/JHf0Y6D"><img src="https://i.ibb.co/zZyj39q/worldwide-gross-tree.png" alt="worldwide-gross-tree" border="0"></a><figcaption>Worldwide Gross Regression Tree</figcaption>
+
+<a href="https://ibb.co/kGLssY2"><img src="https://i.ibb.co/4FbnnBR/avg-score-tree.png" alt="avg-score-tree" border="0"></a><figcaption>IMDB Score Regression Tree</figcaption>
+
+<a href="https://ibb.co/GJt25gg"><img src="https://i.ibb.co/BPrZC88/metascore-tree.png" alt="metascore-tree" border="0"></a><figcaption>Metascore Regression Tree</figcaption>
+
