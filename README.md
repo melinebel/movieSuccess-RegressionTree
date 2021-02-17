@@ -1,2 +1,2 @@
 # movieSuccess-RegressionTree
-A simple regression tree model to study the interplay between box office, critics and audiences in determining a movie's success witd data scraped from IMDB.
+A simple regression tree model to study the interplay between box office, critics and audiences in determining a movie's success using data scraped from IMDB.
