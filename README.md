@@ -25,4 +25,5 @@ A simple regression tree model to study the interplay between box office, critic
 <h1>Conclusion</h1>
 
 <p>None of the three refined decision tree regressions were particularly effective at explaining the variance of the target variables as measured by r squared. By this standard, the best decision tree is the one that targets the worldwide_gross_income variable, with an r squared of ~0.67. Alternatively, the worst decision tree is the one that targets metascore, with an r squared of ~0.55. These predictive differences make sense in that criticism is a more subjective measurement and it’s likely determined by more abstract, indefinable variables than worldwide income.</p>
-Clearly, there is big room for improvement, either by collecting more relevant variables and/or running alternate regression models. Additionally, due to the nature of the OneHotEncoder () methodology, feature names are lost during the modeling pipeline, negatively affecting visualization readability and intelligibility.
+
+<p>Clearly, there is big room for improvement, either by collecting more relevant variables and/or running alternate regression models. Additionally, due to the nature of the OneHotEncoder () methodology, feature names are lost during the modeling pipeline, negatively affecting visualization readability and intelligibility.</p>
